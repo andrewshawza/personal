@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Andrew Shaw's Personal Blog
+author: 
+  name: Andrew Shaw
+  email: andrew@andrewshaw.dev
+description: "Personal blog"
+
+# Build settings
+remote-theme: jekyll-theme-minimal
