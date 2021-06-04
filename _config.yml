@@ -6,4 +6,4 @@ author:
 description: "Personal blog"
 
 # Build settings
-remote-theme: jekyll-theme-minimal
+remote-theme: jekyll/minima
