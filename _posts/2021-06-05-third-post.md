@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My First Post on Jekyll
-tags: first markdown example
+title: My Third Post on Jekyll
+tags: Third markdown example
 categories: demo
 ---
 
-This is a first post.
+This is my `Third` post.
 
 # Heading one
 
