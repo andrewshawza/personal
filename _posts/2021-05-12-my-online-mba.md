@@ -1,5 +1,9 @@
 ---
-#
+layout: post
+image: /assets/images/powermba-infographic.jpeg
+title: My Online MBA Experience
+tags: MBA Online Study Blog   education
+categories: blog
 ---
 
 
