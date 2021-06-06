@@ -5,7 +5,7 @@ title: My Online MBA Experience
 tags: MBA Online Study Blog   education
 categories: blog
 ---
-# ![PowerMBA Infographic](/assets/images/powermba-infographic.jpeg)
+# ![PowerMBA Infographic](/assets/images/powermba-infographic-800x487.jpg)
 
 ![image-center](/assets/images/image-alignment-580x300.jpg){: .align-center}
 
