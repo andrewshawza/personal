@@ -21,13 +21,16 @@ Eventually I discovered some online ads and articles about the PowerMBA, so I di
 *(The infographic was conceptualised by me and I did the design brief to the last detail. I just had to get a freelance designer that was good with hand-drawn personas to actually do the design and make it look good).*
 
 1. **Democratizing Education**
+
 This is their catch-phrase I didn’t come up with it. But it’s an accurate description of what they stand for. It’s available to everyone there are no regulations or entry barriers. All MBA programs have strict requirements for entry including work experience and/or educational qualifications.
 There is also a lot less flexibility in the programs offered as they need to adhere to ridiculous educational regulations that are not really applicable to today’s business practices.
 
 2. **Affordable**
+
 Less than $1000 and under €900 (approximately) and if you keep an eye out for early-bird specials you can shave even more off that modest price. This is around 10% of the next most affordable, reputable online MBA program.
 
 3. **Time**
+
 You only need 15 minutes a day! We all know that time is one of the most valuable things and something you never get back. Time is even more precious when you have a demanding job or career and want to spend more time with your family and friends. The typical MBA is also infamously know as the “divorce course’.
 
 4. **Easy**
