@@ -20,36 +20,33 @@ Eventually I discovered some online ads and articles about the PowerMBA, so I di
 
 *(The infographic was conceptualised by me and I did the design brief to the last detail. I just had to get a freelance designer that was good with hand-drawn personas to actually do the design and make it look good).*
 
-1. **Democratizing Education**
-
+1. **Democratizing Education** -
 This is their catch-phrase I didn’t come up with it. But it’s an accurate description of what they stand for. It’s available to everyone there are no regulations or entry barriers. All MBA programs have strict requirements for entry including work experience and/or educational qualifications.
 There is also a lot less flexibility in the programs offered as they need to adhere to ridiculous educational regulations that are not really applicable to today’s business practices.
 
-2. **Affordable**
-
+2. **Affordable** -
 Less than $1000 and under €900 (approximately) and if you keep an eye out for early-bird specials you can shave even more off that modest price. This is around 10% of the next most affordable, reputable online MBA program.
 
-3. **Time**
-
+3. **Time** -
 You only need 15 minutes a day! We all know that time is one of the most valuable things and something you never get back. Time is even more precious when you have a demanding job or career and want to spend more time with your family and friends. The typical MBA is also infamously know as the “divorce course’.
 
-4. **Easy**
+4. **Easy** -
 The course content is delivered as micro-learning bit sized chunks, with no heavy-reading and the majority of the content delivered as video content.
 
-5. **No Exams**
+5. **No Exams** -
 Stress free and no studying! Only quizzies that you need to pass at the end of each section to make sure you understand the syllabus.
 
-6. **Relevant**
+6. **Relevant** -
 The content and case-studies are framed around companies that you know, and can relate to. (like Netflix, AirBnB, Waze, YouTube, and more)
 
-7. **Perspective**
+7. **Perspective** -
 Great insights into leadership and tips from successful leaders.
 One session in particular was on the topic of mindfulness and how top execs use meditation or similar practices to take mental breaks and just unwind.
 
-8. **Network**
+8. **Network** -
 Reading the reviews on Trust Pilot, and from comments from many of the people I have interacted with, this is one of the main reasons why a lot of people join. There are forums on the student portal for work related topics like , as well as networking events that are normally in person (online during COVID) in cities around the world, bookclubs, and “PowerTalks” webinars with guest presenters that are specialists in their field dealing with a wealth of different topics.
 
-9. **Overview**
+9. **Overview** -
 In general it provides a great understanding of the whole business landscape. It’s a great way to update your knowledge and help with think out-of-the box.
 
 **Dis-Advantages**
